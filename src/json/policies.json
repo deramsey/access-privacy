@@ -1,0 +1,114 @@
+{
+    "platforms": [
+    {
+        "name": "Blackboard",
+        "access": "https://www.anthology.com/trust-center/accessibility",
+        "privacy": "https://www.blackboard.com/resources/blackboard-collaborate-student-privacy"
+    },
+    {
+        "name": "Camtasia",
+        "access": "https://www.techsmith.com/accessibility.html",
+        "privacy": "https://www.techsmith.com/privacy-policy.html"
+    },
+    {
+        "name": "Elsevier (inc. ScienceDirect)",
+        "access": "https://www.elsevier.com/about/accessibility",
+        "privacy": "https://www.sciencedirect.com/topics/computer-science/privacy-policies"
+    },
+    {
+        "name": "eScience Labs",
+        "access": "https://esciencelabs.com/Accessibility",
+        "privacy": "https://www.scienceinteractive.com/privacy-policy/"
+    },
+    {
+        "name": "Google Tools",
+        "access": "https://www.google.com/accessibility/customers-partners/",
+        "privacy": "https://safety.google/intl/en_us/"
+    },
+    {
+        "name": "KaHoot",
+        "access": "https://trust.kahoot.com/inclusion-and-accessibility-policy/index.html",
+        "privacy": "https://trust.kahoot.com/privacy-policy/"
+    },
+    {
+        "name": "Microsoft 365 (Office)",
+        "access": "https://www.microsoft.com/en-us/accessibility",
+        "privacy": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
+        "name": "Microsoft Teams",
+        "access": "https://support.microsoft.com/en-us/office/screen-reader-support-for-microsoft-teams-d12ee53f-d15f-445e-be8d-f0ba2c5ee68f",
+        "privacy": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
+        "name": "MindTap",
+        "access": "https://help.cengage.com/mindtap/mt-instructor/common/accessibility.html",
+        "privacy": "https://www.cengagegroup.com/privacy/notice/"
+    },
+    {
+        "name": "Padlet",
+        "access": "https://legal.padlet.com/accessibility",
+        "privacy": "https://legal.padlet.com/privacy"
+    },
+    {
+        "name": "Panopto",
+        "access": "https://support.panopto.com/servlet/servlet.FileDownload?file=0155Y000005ruNQ",
+        "privacy": "https://www.panopto.com/privacy/"
+    },
+    {
+        "name": "Pearson",
+        "access": "https://www.pearson.com/us/accessibility.html#Pearson",
+        "privacy": "hhttps://www.pearson.com/en-us/legal-information/privacy-policy.html"
+    },
+    {
+        "name": "Pearson MyMathLab",
+        "access": "https://mlm.pearson.com/northamerica/mymathlab/accessibility/",
+        "privacy": "https://www.pearson.com/en-us/legal-information/privacy-policy.html"
+    },
+    {
+        "name": "Quizlet",
+        "access": "https://www.applevis.com/forum/ios-ipados/quizlet-accessibility",
+        "privacy": "https://quizlet.com/privacy"
+    },
+    {
+        "name": "ReadSpeaker",
+        "access": "https://www.readspeaker.com/blog/education-accessibility/",
+        "privacy": "https://www.iubenda.com/privacy-policy/92003498/legal"
+    },
+    {
+        "name": "Respondus (Lockdown & Monitor)",
+        "access": "https://web.respondus.com/accessibility-lockdown/",
+        "privacy": "https://web.respondus.com/privacy-policy/"
+    },
+    {
+        "name": "SnagIt",
+        "access": "https://www.techsmith.com/accessibility.html",
+        "privacy": "https://support.techsmith.com/hc/en-us/articles/360012695012-GDPR-Compliance-and-TechSmith-Products"
+    },
+    {
+        "name": "SoftChalk",
+        "access": "https://softchalk.com/cloud/accessibility",
+        "privacy": "https://www.softchalkcloud.com/privacy#:~:text=The%20personal%20information%20you%20supply,disclosure%20is%20reasonably%20necessary%20to"
+    },
+    {
+        "name": "TestOut",
+        "access": "https://support.testout.com/hc/en-us/articles/360050847654-WCAG-2-1-Compliance-and-VPAT",
+        "privacy": "https://w3.testout.com/company/privacy"
+    },
+    {
+        "name": "VoiceThread",
+        "access": "https://voicethread.com/about/features/accessibility/",
+        "privacy": "https://voicethread.com/privacy/"
+    },
+    {
+        "name": "YouTube",
+        "access": "https://www.google.com/accessibility/",
+        "privacy": "https://safety.google/intl/en_us/"
+    },
+    {
+        "name": "Zoom",
+        "access": "https://explore.zoom.us/en/accessibility/",
+        "privacy": "https://explore.zoom.us/en/privacy/"
+    }
+]
+}
