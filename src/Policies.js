@@ -42,7 +42,7 @@ return (
    })
 }
     </table>
-    <p>Please access this link for institutional privacy policy: <a href="https://clevelandcc.edu/privacy-statement/" rel="noreferrer" target="_blank">CCC's Privacy Policy</a>. </p>
+    <p>Please access this link for the institutional privacy policy: <a href="https://clevelandcc.edu/privacy-statement/" rel="noreferrer" target="_blank">CCC's Privacy Policy</a>. </p>
     </section>
 )
 }
