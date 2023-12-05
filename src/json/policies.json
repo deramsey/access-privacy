@@ -95,6 +95,11 @@
         "access": "https://support.testout.com/hc/en-us/articles/360050847654-WCAG-2-1-Compliance-and-VPAT",
         "privacy": "https://w3.testout.com/company/privacy"
     },
+        {
+        "name": "VitalSource",
+        "access": "https://support.vitalsource.com/hc/en-us/categories/200184597-Accessibility",
+        "privacy": "https://support.vitalsource.com/hc/en-us/articles/201646123-VitalSource-Technologies-LLC-Privacy-Policy"
+    },
     {
         "name": "VoiceThread",
         "access": "https://voicethread.com/about/features/accessibility/",
